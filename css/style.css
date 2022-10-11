@@ -1,0 +1,21 @@
+.navbar-nav .nav-link.active{
+    color:aliceblue;
+}
+
+.nav-link{
+    color:antiquewhite;
+}
+
+.nav-link.disabled{
+    color:peachpuff;
+
+}
+
+.navbar-brand{
+    color:white;
+
+}
+
+.colorbg{
+    background-color: RGB(38,38,38);
+}
